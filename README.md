@@ -1,4 +1,4 @@
-# BharatInternship
+# Bharat Internship
 I have created projects on Number Recognition and Stock Prediction
 
 ## Stock market prediction:
