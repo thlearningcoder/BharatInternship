@@ -1,15 +1,20 @@
 # Bharat Internship
 I have created projects on Number Recognition and Stock Prediction
 
-## Stock market prediction:
-This project is a stock price prediction system built using Long Short-Term Memory (LSTM) neural networks. It takes historical stock price data as input and uses deep learning techniques to forecast future stock prices. The project includes data preprocessing, model training, and evaluation, and it allows users to predict stock prices for a given company based on historical data.
+## Titanic survival
+This project is an implementation of a machine learning model to predict the survival of passengers aboard the Titanic. The dataset used for this project contains information about passengers, including socio-economic status (class), age, gender, and whether they survived or not. By analyzing this dataset and applying machine learning techniques, we can build a predictive model that estimates a passenger's likelihood of surviving the disaster.
 
 Key Features:
-Utilizes LSTM, a type of recurrent neural network, for time-series prediction.
-Preprocesses historical stock price data and scales it for model training.
-Provides visualizations of actual vs. predicted stock prices.
-Calculates and displays Root Mean Squared Error (RMSE) as a measure of model accuracy.
-Offers flexibility to adjust hyperparameters and model architecture for fine-tuning.
+This code uses the following python libraries
+scikit-learn
+pandas
+numpy
+Dataset Source: 
+The dataset used in this project is based on the historical Titanic passenger data, which includes socio-economic status, age, gender, cabin location, ticket fare, and survival status.
+Data Preprocessing: The code performs essential data preprocessing tasks, such as handling missing values and encoding categorical features.
+Binary Classification: The objective is to predict whether a passenger survived (1) or not (0), making it a binary classification problem.
+
+
 
 ## Handwritten Digit Recognition using MNIST Dataset
 This project is an implementation of a neural network-based handwritten digit recognition system using the MNIST dataset. It serves as a practical example of image classification with deep learning. The project includes data loading, model creation, training, evaluation, and prediction capabilities. It's designed to recognize and classify scanned images of handwritten digits (0-9) accurately.
