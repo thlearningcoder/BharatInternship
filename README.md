@@ -1,7 +1,7 @@
-## BharatInternship
+# BharatInternship
 I have created projects on Number Recognition and Stock Prediction
 
-# Stock market prediction:
+## Stock market prediction:
 This project is a stock price prediction system built using Long Short-Term Memory (LSTM) neural networks. It takes historical stock price data as input and uses deep learning techniques to forecast future stock prices. The project includes data preprocessing, model training, and evaluation, and it allows users to predict stock prices for a given company based on historical data.
 
 Key Features:
@@ -11,7 +11,7 @@ Provides visualizations of actual vs. predicted stock prices.
 Calculates and displays Root Mean Squared Error (RMSE) as a measure of model accuracy.
 Offers flexibility to adjust hyperparameters and model architecture for fine-tuning.
 
-# Handwritten Digit Recognition using MNIST Dataset
+## Handwritten Digit Recognition using MNIST Dataset
 This project is an implementation of a neural network-based handwritten digit recognition system using the MNIST dataset. It serves as a practical example of image classification with deep learning. The project includes data loading, model creation, training, evaluation, and prediction capabilities. It's designed to recognize and classify scanned images of handwritten digits (0-9) accurately.
 
 Key Features:
