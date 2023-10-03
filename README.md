@@ -1,7 +1,7 @@
 # Bharat Internship
 I have created projects on Number Recognition and Stock Prediction
 
-## Titanic survival
+## Titanic Classification
 This project is an implementation of a machine learning model to predict the survival of passengers aboard the Titanic. The dataset used for this project contains information about passengers, including socio-economic status (class), age, gender, and whether they survived or not. By analyzing this dataset and applying machine learning techniques, we can build a predictive model that estimates a passenger's likelihood of surviving the disaster.
 
 Key Features:
